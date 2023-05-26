@@ -1,4 +1,4 @@
-# PetFriendsTesting_24_7_2
+# PetFriendsTesting_24.7.2
 
 Тестовый проект к 24 модулю SkillFactory курса QAP.
 
